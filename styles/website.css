@@ -9,3 +9,7 @@ body {
 .book .book-body .page-wrapper .page-inner section.normal code {
     font-family: Courier;
 }
+
+.book-header {
+    font-family: Courier;
+}
