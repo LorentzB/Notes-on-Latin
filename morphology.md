@@ -6,6 +6,7 @@ Nouns in Latin are grouped in five different families called declensions.
 Declension is identified by the *genitive singular* ending.
 
 |              |Genitive Singular Ending|
+|--------------|------------------------|
 |1st declension|        -ae             |
 |2nd declension|        -ī              |
 |3rd declension|        -is             |
