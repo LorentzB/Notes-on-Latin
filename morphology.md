@@ -77,12 +77,12 @@ ones with the vocative deffering from the nominative.
 
 |  **serv-**  |*Singular*   | *Plural* |
 |-------------|-------------|----------|
-|Nom.         | servus      | servī    |
-|Gen.         | servī       | servōrum |
-|Dat.         | servō       | servīs   |
-|Acc.         | servum      | servōs   |
-|Abl.         | servō       | servīs   |
-|Voc.         | serve       | servī    |
+|Nom.         | serv**us**      | serv**ī**    |
+|Gen.         | serv**ī**     | serv**ōrum** |
+|Dat.         | serv**ō**      | serv**īs**   |
+|Acc.         | serv**um**      | serv**ōs**   |
+|Abl.         | serv**ō**       | serv**īs**   |
+|Voc.         | serv**e**       | serv**ī**    |
 
   
 
@@ -91,8 +91,18 @@ ones with the vocative deffering from the nominative.
 |Nom./Voc.    | -um         | -a       |
 |Gen.         | -ī          | -ōrum    |
 |Dat.         | -ō          | -īs      |
-|Acc.         | -um         | -a      |
+|Acc.         | -um         | -a       |
 |Abl.         | -ō          | -īs      |
+
+**perīculum**, **perīculī** n. danger
+
+|Neuter       |*Singular*   | *Plural* |
+|-------------|-------------|----------|
+|Nom./Voc.    | perīl**um** | perīl**a**       |
+|Gen.         | perīl**ī**  | perīl**ōrum**    |
+|Dat.         | perīl**ō**  | perīl**īs**      |
+|Acc.         | perīl**um** | perīl**a**       |
+|Abl.         | perīl**ō**  | perīl**īs**      |
 
 ### Third Declension
 
